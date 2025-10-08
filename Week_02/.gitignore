@@ -1,0 +1,4 @@
+.DS_Store
+*.zip
+*.pdf
+!Week2_LA_HTML.pdf
